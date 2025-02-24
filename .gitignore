@@ -1,0 +1,11 @@
+**/node_modules
+
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+
+.DS_Store
+*.log
+# VuePress 默认缓存目录
+.vuepress/.cache
+node_modules
