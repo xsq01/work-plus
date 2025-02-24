@@ -7,10 +7,8 @@ config:
     full: true
 #    改变图片大小    
     background: /.vuepress/public/img.png
-    style: "background-size: 100% auto;"
     hero:
       name: 大米
-      style: "color: black;"
       tagline: Sushy&Ham
       text: 埋骨何须桑梓地，人生无处不青山
       actions:
