@@ -6,7 +6,7 @@ config:
     type: hero
     full: true
 #    改变图片大小    
-    background: /.vuepress/public/wallhaven-0q2vv5.jpg
+    background: .vuepress/public/wallhaven-0q2vv5.jpg
     hero:
       name: 豪钦
       tagline: Sushy&Ham
