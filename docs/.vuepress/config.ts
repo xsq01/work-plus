@@ -77,7 +77,20 @@ export default defineUserConfig({
       //   lazyload: true,
       //   size: true
       // },
-      shiki: { lineNumbers: true }
+      shiki: { lineNumbers: true },
+      comment: {
+        // 服务提供商
+        provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+        // 是否默认启用评论
+        comment: true,
+        repo:  'xsq01/take',
+        repoId: 'R_kgDON_M74g',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDON_M74s4CnUCV',
+
+        // 其它配置，根据服务提供商进行配置
+        // ...
+      }
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
