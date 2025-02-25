@@ -70,11 +70,11 @@ export default defineUserConfig({
       search: {
         // more options
       },
-      markdownImage: {
-        figure: true,
-        lazyload: true,
-        size: true
-      },
+      // markdownImage: {
+      //   figure: true,
+      //   lazyload: true,
+      //   size: true
+      // },
       shiki: { lineNumbers: true }
       /**
        * Shiki 代码高亮
