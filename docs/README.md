@@ -8,7 +8,7 @@ config:
 #    改变图片大小    
     background: /.vuepress/public/img.png
     hero:
-      name: 大米
+      name: 豪钦
       tagline: Sushy&Ham
       text: 埋骨何须桑梓地，人生无处不青山
       actions:
