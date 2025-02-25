@@ -85,8 +85,8 @@ export default defineUserConfig({
         comment: true,
         repo:  'xsq01/take',
         repoId: 'R_kgDON_M74g',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDON_M74s4CnUCV',
+        category: 'Show and tell',
+        categoryId: 'DIC_kwDON_M74s4CnUCZ',
 
         // 其它配置，根据服务提供商进行配置
         // ...
