@@ -6,7 +6,9 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  // 怎样将下面的logo可以设置为svg图标
+
+  logo: '/ww.png', // 站点 logo
 
   appearance: true,  // 配置 深色模式
 
