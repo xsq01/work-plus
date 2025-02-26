@@ -6,7 +6,7 @@ config:
     type: hero
     full: true
 #    改变图片大小    
-    background: /M1.png
+    background: /img.png
     hero:
       name: 豪钦
       tagline: Sushy&Ham
