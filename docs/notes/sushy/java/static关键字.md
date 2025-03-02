@@ -1,3 +1,8 @@
+---
+title: static关键字
+createTime: 2025/03/02 22:04:44
+permalink: /sushy/4xknrcfz/
+---
 # static关键字
 
 ## 定义
