@@ -1,8 +1,3 @@
----
-title: static关键字
-createTime: 2025/03/02 21:42:19
-permalink: /sushy/klpfwplr/
----
 # static关键字
 
 ## 定义
