@@ -20,7 +20,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://www.xlh.icu/',
 
 
     /* 文档仓库配置，用于 editLink */
@@ -90,7 +90,8 @@ export default defineUserConfig({
 
         // 其它配置，根据服务提供商进行配置
         // ...
-      }
+      },
+      git: true
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
