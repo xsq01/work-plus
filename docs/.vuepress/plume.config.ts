@@ -13,7 +13,7 @@ export default defineThemeConfig({
   appearance: true,  // 配置 深色模式
 
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/xsq01/work-plus' },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
@@ -30,19 +30,19 @@ export default defineThemeConfig({
   // createTime: true, // 是否显示文章创建时间
 
   /* 站点页脚 */
-  // footer: {
-  //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-  //   copyright: '',
-  // },
+  footer: {
+    message: '<a target="_blank" href="https://github.com/xsq01/">Sushy</a> & <a target="_blank" href="https://github.com/Lusir230218/">Ham</a>',
+    copyright: '',
+  },
 
   /**
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'My Vuepress Site',
-    description: 'My create',
-    // circle: true,
+    avatar: '/boss.jpg',
+    name: 'Sushy&Ham',
+    description: '优质学习记录',
+    circle: true,
     // location: '',
     // organization: '',
   },
